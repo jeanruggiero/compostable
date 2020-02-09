@@ -10,7 +10,7 @@ To explore Mission Compostable's image processing engine and play around with re
 We're on a mission to save compostable utensils from the landfill! These items won't break down in a landfill so we're using tech for good to make sure they make it to the nearest composting facility.
 
 ## What inspired you to make this?
-
+People don't always know what type of trash cans they should put their trash in; hence, they ended up putting the trash in the wrong trash can. Being aware of that, we want to create a compostable and plastic recognizer to help people determine where to put their trash in and, in a  larger scale, protect the environment.
 ## What does your project do?
 Our project is an environmental hack that can conduct image analysis to distinguish different materials of spoons (compostable vs. plastic). 
 
