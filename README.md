@@ -17,12 +17,12 @@ Our project is an environmental hack that can conduct image analysis to distingu
 ## How did you build it?
 
 ## What challenges did you face?
-Trying to figure out the appropriate packages to conduct our image analysis. We used a combination of OpenCV and Scikit-Image. 
+We was trying to figure out the appropriate packages to conduct our image analysis. We used a combination of OpenCV and Scikit-Image. 
 
 ## What accomplishments are you proud of?
 Staying up late at night drinking Monster Energy drinks, while single-handly devouring pizzas and cookies in one hand and typing desperately on the computer with the other hand. 
 
 ## What did you learn while building this?
-We learned how to build and design a website, CSS, image processing programming, 
+We learned how to use CSS, image processing, build and design a website.
 ## What's next for your project?
 In the future, we will add samples of other utensils to the program. Ultimately, we want to build a machine that scan utensils,then filtering and directing them to the right compostable or plastic trash can. 
