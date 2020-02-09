@@ -1,10 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends 'base.html' %}
 
-</body>
-</html>
+{% load static %}
+
+{% block content %}
+
+    {% if is_compostable %}
+        <div id="compost">
+            <p>It's Compost!</p>
+        </div>
+
+    {% else %}
+        <div id="trash">
+            <p>It's Trash</p>
+        </div>
+
+    {% endif %}
+
+{% endblock %}
