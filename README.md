@@ -25,5 +25,3 @@ Staying up late at night drinking Monster Energy drinks, while single-handly dev
 ## What did you learn while building this?
 
 ## What's next for your project?
-
-## What did you build it with?
