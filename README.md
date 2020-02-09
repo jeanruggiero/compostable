@@ -1,3 +1,5 @@
+![alt-me](images/mc_logo.svg "Title")
+
 # Mission Compostable
 An app that distinguishes between plastic and compostable utensils to save them from the landfill!
 
