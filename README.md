@@ -5,13 +5,13 @@ An app that distinguishes between plastic and compostable utensils to save them 
 
 The backend repo is [here](https://github.com/jeanruggiero/mission-compostable-django).
 
-To explore Mission Compostable's image processing engine and play around with real data, check out this [Jupyter Notebook]!
+To explore Mission Compostable's image processing engine and play around with real data, check out this [Jupyter Notebook](https://github.com/jeanruggiero/mission-compostable/blob/master/com-python/image_processing_engine.ipynb)!
 
 ## Collaborators
-Ngoc (Ruby) Ngo
-Catherine Ng
-Sholpan Kalikova
-Jean Ruggiero
+- Ngoc (Ruby) Ngo
+- Catherine Ng
+- Sholpan Kalikova
+- Jean Ruggiero
 
 ## Describe your project in a tweet!
 We're on a mission to save compostable utensils from the landfill! These items won't break down in a landfill so we're using tech for good to make sure they make it to the nearest composting facility.
