@@ -15,7 +15,7 @@ People don't always know what type of trash cans they should put their trash in;
 Our project is an environmental hack that can conduct image analysis to distinguish different materials of spoons (compostable vs. plastic). 
 
 ## How did you build it?
-
+We start with exploring some different technologies to see which would be best suited to solve the problem. Then, we experimented to decide if it would be technically feasible to solve the problem. With those hurdles out of the way, we started hacking! First, we collected samples and we did some exploratory data anlysis to determine the best model parameter processing for the images. After that we have some time left, so we build some front-end for the project.
 ## What challenges did you face?
 We was trying to figure out the appropriate packages to conduct our image analysis. We used a combination of OpenCV and Scikit-Image. 
 
