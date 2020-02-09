@@ -22,5 +22,3 @@ We're on a mission to save compostable utensils from the landfill! These items w
 ## What did you learn while building this?
 
 ## What's next for your project?
-
-## What did you build it with?
