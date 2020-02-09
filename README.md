@@ -1,5 +1,3 @@
-![alt-me](images/mc_logo.svg "Title")
-
 # Mission Compostable
 An app that distinguishes between plastic and compostable utensils to save them from the landfill!
 
@@ -14,7 +12,7 @@ We're on a mission to save compostable utensils from the landfill! These items w
 ## What inspired you to make this?
 
 ## What does your project do?
-Our project is an environmental hack that can conduct image analysis to distinguish different materials of spoons, knives, and forks (compostable vs. plastic). 
+Our project is an environmental hack that can conduct image analysis to distinguish different materials of spoons (compostable vs. plastic). 
 
 ## How did you build it?
 
@@ -25,5 +23,6 @@ Trying to figure out the appropriate packages to conduct our image analysis. We 
 Staying up late at night drinking Monster Energy drinks, while single-handly devouring pizzas and cookies in one hand and typing desperately on the computer with the other hand. 
 
 ## What did you learn while building this?
-
+We learned how to build and design a website, CSS, image processing programming, 
 ## What's next for your project?
+In the future, we will add samples of other utensils to the program. Ultimately, we want to build a machine that scan utensils,then filtering and directing them to the right compostable or plastic trash can. 
