@@ -1,13 +1,9 @@
-# compostable
-An app that distinguishes between plastic and compostable utensils, cups, and lids to save them from the landfill!
+# Mission Compostable
+An app that distinguishes between plastic and compostable utensils to save them from the landfill!
 
-### Project Links
+The backend repo is [here](https://github.com/jeanruggiero/mission-compostable-django).
 
-https://www.iro.umontreal.ca/~poulin/fournier/theses/Ke.msc.pdf
-
-https://developer.apple.com/documentation/avfoundation/cameras_and_media_capture/capturing_photos_with_depth
-
-https://developer.apple.com/documentation/avfoundation/cameras_and_media_capture/avcam_building_a_camera_app
+To explore Mission Compostable's image processing engine and play around with real data, check out this [Jupyter Notebook]!
 
 
 ## Describe your project in a tweet!
