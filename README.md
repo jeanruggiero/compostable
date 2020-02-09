@@ -3,7 +3,7 @@
 # Mission Compostable
 An app that distinguishes between plastic and compostable utensils to save them from the landfill!
 
-Check it out [here](https://mission-compostable.herokuapp.com/) while we wait for our domain name, www.missioncompostable.online, from Domain.com to resolve.
+Check it out at http://www.missioncompostable.online/ (domain registered with Domain.com).
 
 The backend repo is [here](https://github.com/jeanruggiero/mission-compostable-django).
 
